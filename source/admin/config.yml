@@ -59,7 +59,7 @@ collections:
     name: pages
     label: Pages
     files:
-      - file: "data/pages/kebijakan.yml"
+      - file: "data/pages/pasang-iklan.yml"
         label: Kebiijakan
         name: home
         fields:
