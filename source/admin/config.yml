@@ -56,6 +56,24 @@ collections:
             name: story
             widget: markdown
 
+    name: pages
+    label: Pages
+    files:
+      - file: "data/pages/kebijakan.yml"
+        label: Kebiijakan
+        name: home
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
+            
+            
   - name: settings
     label: Settings
     files:
