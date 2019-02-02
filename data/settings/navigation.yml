@@ -9,7 +9,5 @@ nav_items:
     path: /
   - label: Kebijakan Media Siber
     path: /
-  - label: Hubungi Kami
-    path: /
   - label: Pasang Iklan
     path: /pasang-iklan
