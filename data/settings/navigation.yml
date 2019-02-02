@@ -1,5 +1,13 @@
-nav_items: 
-  - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
-  - {label: 'News', path: '/news'}
-
+nav_items:
+  - label: Teras Fox
+    path: /
+  - label: Website Murah di Jual
+    path: /products/
+  - label: Artikel Berfaedah
+    path: /news
+  - label: Tentang kami
+    path: /
+  - label: Kebijakan Media Siber
+    path: /
+  - label: Hubungi Kami
+    path: /
