@@ -4,17 +4,7 @@ date: 2019-02-02T02:03:03.879Z
 description: Cara terbru membuat akun google bisnis di Tahun 2019
 image: /images/uploads/bisnis.png
 ---
-<div class="separator" style="clear: both; text-align: center;">
-
-<a href="https://4.bp.blogspot.com/-09abOBFGcio/W0H503ENDOI/AAAAAAAAARM/AQzqlp4jidstSOCCjI5msdSfMtFVTG4DwCLcBGAs/s1600/bisnis.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="472" data-original-width="894" height="336" src="https://4.bp.blogspot.com/-09abOBFGcio/W0H503ENDOI/AAAAAAAAARM/AQzqlp4jidstSOCCjI5msdSfMtFVTG4DwCLcBGAs/s640/bisnis.png" width="640" /></a></div>
-
-<div class="separator" style="clear: both; text-align: left;">
-
-<br /></div>
-
-<div class="separator" style="clear: both; text-align: left;">
-
-Langsung aja ya:</div>
+Pada Kesempatan ini Foxweb bakalan membahas bagaimana cara membuat akun google bisnis. Langsung aja ya:</div>
 
 <div class="separator" style="clear: both; text-align: left;">
 
@@ -27,7 +17,6 @@ Langsung aja ya:</div>
 <div class="separator" style="clear: both; text-align: left;">
 
 2. Atau langsung menuju linknya di sini [**https://www.google.co.id/intl/id/business/**](https://www.google.co.id/intl/id/business/)
-
 3. Login menggunakan alamat e-mail rekan-rekan.</div>
 
 <div class="separator" style="clear: both; text-align: left;">
