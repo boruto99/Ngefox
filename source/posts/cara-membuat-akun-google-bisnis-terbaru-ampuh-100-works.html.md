@@ -4,77 +4,104 @@ date: 2019-02-02T02:03:03.879Z
 description: Cara terbru membuat akun google bisnis di Tahun 2019
 image: /images/uploads/bisnis.png
 ---
-Pada Kesempatan ini Foxweb bakalan membahas bagaimana cara membuat akun google bisnis. Langsung aja ya:</div>
+<div style="text-align: justify;">
 
-<div class="separator" style="clear: both; text-align: left;">
+Seperti judul yang rekan-rekan baca, pada kesempatan ini saya akan memberikan beberapa tips berfaedah yang bisa meningkatkan tingkat reputasi <b style="font-style: italic;">Brands, </b>atau web/blog rekan-rekan semua. Sebelum membaca Part II ini, saya menyarankan rekan-rekan untuk mempelajari dan langsung mempraktikkan tips seor dasar Part I, yang sudah saya share sebelumnya.</div>
 
-1. Ketik Google Bisnis di Mbak Google</div>
+<div style="text-align: justify;">
 
 <div class="separator" style="clear: both; text-align: center;">
 
-<a href="https://4.bp.blogspot.com/-7DnvoBT6EX0/W0H2Ueoy3KI/AAAAAAAAAQQ/yvdt_7AhAaQBg6xj82_QME0TEMu78lJsACLcBGAs/s1600/google%2Bbisnis%2B1.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="618" data-original-width="760" height="260" src="https://4.bp.blogspot.com/-7DnvoBT6EX0/W0H2Ueoy3KI/AAAAAAAAAQQ/yvdt_7AhAaQBg6xj82_QME0TEMu78lJsACLcBGAs/s320/google%2Bbisnis%2B1.png" width="320" /></a></div>
-
-<div class="separator" style="clear: both; text-align: left;">
-
-2. Atau langsung menuju linknya di sini [**https://www.google.co.id/intl/id/business/**](https://www.google.co.id/intl/id/business/)
-3. Login menggunakan alamat e-mail rekan-rekan.</div>
-
-<div class="separator" style="clear: both; text-align: left;">
+<a href="https://2.bp.blogspot.com/-J68bS5OB11g/W0H0FThWvuI/AAAAAAAAAQE/dNSXdh4UZuABZGFmpkw9Mq32IyyE83YgwCLcBGAs/s1600/seo.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="504" data-original-width="918" height="350" src="https://2.bp.blogspot.com/-J68bS5OB11g/W0H0FThWvuI/AAAAAAAAAQE/dNSXdh4UZuABZGFmpkw9Mq32IyyE83YgwCLcBGAs/s640/seo.png" width="640" /></a></div>
 
 <br /></div>
 
-<br />
+<div style="text-align: justify;">
+
+Oke, sampai di sini, saya sudah menganggap rekan-rekan telah mempraktikkan tips sebelumnya. Nah, kali ini kita akan membahas <b>Wikipedia </b>dan <b>Google Bisnis (standard). </b>Okey,&nbsp;Sebelum masuk ke teknik dan tata caranya, saya ingin sedikit membahas tentang dua website di atas, untuk menambah informasi rekan-rekan, serta untuk memperbanyak jumlah kata dalam artikel ini, <i>hehehe...</i></div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
-<a href="https://1.bp.blogspot.com/-hvIQA87o5iE/W0H2U9lMrSI/AAAAAAAAAQY/B_H01hvgaFgWXAQvCTbjl3u25QJ-dV5OgCLcBGAs/s1600/google%2Bbisnis%2B2.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="634" data-original-width="1329" height="152" src="https://1.bp.blogspot.com/-hvIQA87o5iE/W0H2U9lMrSI/AAAAAAAAAQY/B_H01hvgaFgWXAQvCTbjl3u25QJ-dV5OgCLcBGAs/s320/google%2Bbisnis%2B2.png" width="320" /></a></div>
+<a href="https://3.bp.blogspot.com/-KnIWyLFHneY/W0HnElEKHwI/AAAAAAAAAOk/qTyFISqv_PIXNkSXIS3oZAAJrOaHWVl8wCLcBGAs/s1600/wikipedia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="575" data-original-width="919" height="400" src="https://3.bp.blogspot.com/-KnIWyLFHneY/W0HnElEKHwI/AAAAAAAAAOk/qTyFISqv_PIXNkSXIS3oZAAJrOaHWVl8wCLcBGAs/s640/wikipedia.png" width="640" /></a></div>
 
-4. Isi Nama brand bisnis rekan-rekan<br />
+<div style="text-align: justify;">
 
-<div class="separator" style="clear: both; text-align: center;">
+<i><br /></i></div>
 
-<a href="https://4.bp.blogspot.com/-0YNizuJw6Sc/W0H2Ud_cyTI/AAAAAAAAAQU/SEl3ZPFZuloCWU1dsTQPQa4OWzz8AvmmgCLcBGAs/s1600/google%2Bbisnis%2B3.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="454" data-original-width="671" height="216" src="https://4.bp.blogspot.com/-0YNizuJw6Sc/W0H2Ud_cyTI/AAAAAAAAAQU/SEl3ZPFZuloCWU1dsTQPQa4OWzz8AvmmgCLcBGAs/s320/google%2Bbisnis%2B3.png" width="320" /></a></div>
+<div style="text-align: justify;">
 
-5. Lengkapi alamat rekan-rekan<br />
-
-<div class="separator" style="clear: both; text-align: center;">
-
-<a href="https://3.bp.blogspot.com/-a1mYxQ4PIiA/W0H2VGfyRWI/AAAAAAAAAQc/NKSnBZahkfcibBQ3XBOd4pW9PxIE7I5gwCLcBGAs/s1600/google%2Bbisnis%2B4.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="581" data-original-width="641" height="290" src="https://3.bp.blogspot.com/-a1mYxQ4PIiA/W0H2VGfyRWI/AAAAAAAAAQc/NKSnBZahkfcibBQ3XBOd4pW9PxIE7I5gwCLcBGAs/s320/google%2Bbisnis%2B4.png" width="320" /></a></div>
-
-6. Taruh tanda merah itu di lokasi tempat rekan-rekan menjalankan bisnis<br />
+Wikipedia sendiri adalah sebuah proyek ensiklopedia bebas dan gratis yang ada di internet, terdiri dari banyak pilihan bahasa. Penulis aktif di situs wikipedia tercatat sebanyak lebih dari 7 ribu orang, dan telah menghasilkan lebih dari 10 juta artikel dalam 250 bahasa yang berbeda. Setiap hari, web wikipedia ini dikunjungi oleh ribuan <i>visitor</i> unik dari seluruh dunia. Disamping sebagai pembaca, <i>visitor </i>ini juga dapat memperbaiki, menambah, hingga merevisi konten artikel yang ada. Keren banget dah.</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
-<a href="https://1.bp.blogspot.com/-wCu5Jd0KvEQ/W0H2VmeBY0I/AAAAAAAAAQg/MDWnF-mzCNA7iGGZYydXRDtJB-tDjwFOQCLcBGAs/s1600/google%2Bbisnis%2B5.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="570" data-original-width="716" height="254" src="https://1.bp.blogspot.com/-wCu5Jd0KvEQ/W0H2VmeBY0I/AAAAAAAAAQg/MDWnF-mzCNA7iGGZYydXRDtJB-tDjwFOQCLcBGAs/s320/google%2Bbisnis%2B5.png" width="320" /></a></div>
+<a href="https://2.bp.blogspot.com/-L3orZqauqBg/W0HnhYcdDmI/AAAAAAAAAOs/Mci5_2UDjewFc02cbAtkqFIKNaRTFiHPACLcBGAs/s1600/gitasav%2Bwikipedia.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="631" data-original-width="1179" height="340" src="https://2.bp.blogspot.com/-L3orZqauqBg/W0HnhYcdDmI/AAAAAAAAAOs/Mci5_2UDjewFc02cbAtkqFIKNaRTFiHPACLcBGAs/s640/gitasav%2Bwikipedia.png" width="640" /></a></div>
 
-7. Pilih area layanan, bisa hanya melayani beberapa KM saja, namun, lebih baik pilih yang bawah, untuk menjangkau yang yang lebih luas lagi, karena kita kan membuat bisnis online, bukan bisnis jual beli.<br />
+<div style="text-align: justify;">
+
+<br /></div>
+
+<div style="text-align: justify;">
+
+Kita bebas membuat artikel di Wikipedia, judulnya pun bebas, mau buat <i>narsis-narsisan </i>juga boleh banget kok. Hanya saja, kita <i>ga</i>&nbsp;boleh membuat konten hoaks, melanggar hukum, dan sebagainya. Soalnya kalau melanggar, artikel kita bakalan langsung diapus (<i>auto delete</i>).</div>
+
+<div style="text-align: justify;">
+
+Seperti Wikipedia punyanya Gitasav di atas, coba perhatikan kata-kata berwarna biru yang saya garis bawahi berwarna merah diatas, itu adalah link aktif menuju web/blog si penulis wikipedia. Jadi, kita bisa bebas menaruhkan link aktif menuju web kita. Keren kan.</div>
+
+<div style="text-align: justify;">
+
+<br /></div>
+
+<div style="text-align: justify;">
+
+<span style="font-size: large;">Nah, sekarang kita akan bahas <b>Google Bisnis.&nbsp;</b></span><br />
+
+<span style="font-size: large;"><b><br /></b></span></div>
+
+<div style="text-align: justify;">
+
+<b>Google bisnis</b>&nbsp;merupakan salah satu <i>variant</i>&nbsp;layanan perusahaan google, yang dirancang khusus bagi kita, sebagai seorang blogger/wirausaha muda/pekerja industri kreatif dan sebangsanya. Intinya, kita akan dibantu oleh google untuk mempromosikan lapak bisnis kita di semua layanan Google, seperti <i>google maps, and google seacrh. </i>Inilah yang kita butuhkan bukan? Bisnis kita bisa muncul di pencarian googe paling atas.</div>
 
 <div class="separator" style="clear: both; text-align: center;">
 
-<a href="https://1.bp.blogspot.com/-Q-2tlchcteI/W0H2VqKjFHI/AAAAAAAAAQk/4rnh9yvhlRMVEjG7U8wphCIrxsjWxJhNQCLcBGAs/s1600/google%2Bbisnis%2B6.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="521" data-original-width="624" height="267" src="https://1.bp.blogspot.com/-Q-2tlchcteI/W0H2VqKjFHI/AAAAAAAAAQk/4rnh9yvhlRMVEjG7U8wphCIrxsjWxJhNQCLcBGAs/s320/google%2Bbisnis%2B6.png" width="320" /></a></div>
-
-8 Tulis jenis bisnisnya<br />
-
-<div class="separator" style="clear: both; text-align: center;">
-
-<a href="https://2.bp.blogspot.com/-PkeJoSeoREU/W0H2V-hlN9I/AAAAAAAAAQo/vbMCf6kk1jYAqmC9L4ulpwYWQwHZiFQ1wCLcBGAs/s1600/google%2Bbisnis%2B7.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="500" data-original-width="602" height="265" src="https://2.bp.blogspot.com/-PkeJoSeoREU/W0H2V-hlN9I/AAAAAAAAAQo/vbMCf6kk1jYAqmC9L4ulpwYWQwHZiFQ1wCLcBGAs/s320/google%2Bbisnis%2B7.png" width="320" /></a></div>
-
-9. Masukan nomer rekan-rekan, akan di kirimkan sms konfirmasi nanti<br />
-
-<div class="separator" style="clear: both; text-align: center;">
-
-<a href="https://4.bp.blogspot.com/-17rl9-IvjQo/W0H2WAUqEyI/AAAAAAAAAQs/Zw31ceJrcwYvMkSKsvzmSsptM0XxgDtrACLcBGAs/s1600/google%2Bbisnis%2B8.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="591" data-original-width="587" height="320" src="https://4.bp.blogspot.com/-17rl9-IvjQo/W0H2WAUqEyI/AAAAAAAAAQs/Zw31ceJrcwYvMkSKsvzmSsptM0XxgDtrACLcBGAs/s320/google%2Bbisnis%2B8.png" width="317" /></a></div>
+<a href="https://3.bp.blogspot.com/-rZL8u0dr4sg/W0HoDGDCYbI/AAAAAAAAAO4/UYrS_vwBmIw5mycXS6DN1SarhcYO-06HQCLcBGAs/s1600/google%2Bmaps.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="651" data-original-width="1189" height="348" src="https://3.bp.blogspot.com/-rZL8u0dr4sg/W0HoDGDCYbI/AAAAAAAAAO4/UYrS_vwBmIw5mycXS6DN1SarhcYO-06HQCLcBGAs/s640/google%2Bmaps.png" width="640" /></a></div>
 
 <div class="separator" style="clear: both; text-align: left;">
 
-10. Tinggal isi data selanjutnya. Hingga akhir, mudah kok.&nbsp;</div>
+gambar di atas merupakan contoh optimalisasi SEO menggunakan Google bisnis pada Maps. Alamat brand kita terlihat jelas, pun demikian ketika kita mengetikkan kata kunci yang sesuai dengan brand kita contohnya "jasa website murah di jakarta". Asyik banget deh pokoknya.</div>
+
+<br />
+
+<div class="separator" style="clear: both; text-align: center;">
+
+<a href="https://4.bp.blogspot.com/-Zs4g8jnCcpw/W0HoFgCpObI/AAAAAAAAAO8/6Z5kbQXt_lQfv6FN0CJCpKWc76RErEQPACLcBGAs/s1600/google%2Bsearch.png" imageanchor="1" style="margin-left: 1em; margin-right: 1em;"><img border="0" data-original-height="655" data-original-width="1293" height="323" src="https://4.bp.blogspot.com/-Zs4g8jnCcpw/W0HoFgCpObI/AAAAAAAAAO8/6Z5kbQXt_lQfv6FN0CJCpKWc76RErEQPACLcBGAs/s640/google%2Bsearch.png" width="640" /></a></div>
+
+<div style="text-align: justify;">
+
+Sedangkan gambar di atas merupakan optimalisasi SEO dengan memanfaatkan Google bisnis pada mesin pencarian google. Ketika saya mengetikkan Jogjaweb, maka situs yang memiliki kelengkapan alamat bisnis yang akan muncul paling atas, di sertai dengan alamat bisnisnya di sebelah kanan kolom pencarian. Sedangkan di urutan kedua dan ketiga adalah website yang menggunakan kata kunci jogjaweb.... sebagai domain utamanya.</div>
+
+<div style="text-align: justify;">
+
+<br /></div>
+
+<div style="text-align: justify;">
+
+Nah, itu adalah sedikit gambarannya ya, sekarang kita akan membahas inti dari artikel ini, yakni bagaimana cara membuat artikel di wikipedia secara tepat dan benar, serta cara memanfaatkan google bisnis.</div>
+
+<div style="text-align: justify;">
 
 <div style="text-align: center;">
 
-<br />
+<br /></div>
+
+<div style="text-align: center;">
+
+Langkah-langkahnya:<br />
 
 Klik salah satunya<br />
 
 &nbsp;&nbsp;<a href="https://blog.iko.ooo/2018/07/cara-membuat-artikel-di-wikipedia.html"><b><button><b>Wikipedia</b></button></b></a>
 
 <a href="https://blog.iko.ooo/2018/07/cara-membuat-akun-google-bisnis-terbaru.html"><b><button><b>Google Bisnis</b></button></b></a></div>
+
+</div>
