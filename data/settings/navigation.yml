@@ -11,3 +11,5 @@ nav_items:
     path: /
   - label: Hubungi Kami
     path: /
+  - label: Pasang Iklan
+    path: /pasang-iklan
