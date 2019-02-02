@@ -6,8 +6,8 @@ nav_items:
   - label: Artikel Berfaedah
     path: /news
   - label: Tentang kami
-    path: /
+    path: /tentang-kami
   - label: Kebijakan Media Siber
-    path: /
+    path: /kebijakan
   - label: Pasang Iklan
     path: /pasang-iklan
