@@ -73,6 +73,23 @@ collections:
             name: story
             widget: markdown
             
+            ame: pages
+    label: Pages
+    files:
+      - file: "data/pages/tentang-kami.yml"
+        label: Tentang Kami
+        name: home
+        fields:
+          - label: Hero
+            name: hero
+            widget: object
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Image, name: image, widget: image}
+          - label: Story
+            name: story
+            widget: markdown
+            
             
   - name: settings
     label: Settings
