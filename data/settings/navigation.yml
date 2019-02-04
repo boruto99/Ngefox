@@ -8,6 +8,6 @@ nav_items:
   - label: Tentang kami
     path: /tentang-kami
   - label: Kebijakan Media Siber
-    path: /kebijakan
+    path: https://iko.ooo
   - label: Pasang Iklan
     path: /pasang-iklan
