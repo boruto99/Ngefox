@@ -5,9 +5,3 @@ nav_items:
     path: /products/
   - label: Artikel Berfaedah
     path: /news
-  - label: Tentang kami
-    path: /tentang-kami
-  - label: Kebijakan Media Siber
-    path: https://iko.ooo
-  - label: Pasang Iklan
-    path: /pasang-iklan
